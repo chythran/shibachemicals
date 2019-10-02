@@ -5,15 +5,14 @@
                             <aside class="column-1_3 widget widget_socials">
                                 <div class="widget_inner">
                                     <div class="logo">
-                                        <a href="index.html">
-                                            <img src="images/footer-logo-1x.png" class="logo_main" alt="" width="168" height="42">
-                                        </a>
+                                        <h5 class="widget_title">About Us</h5>
+                                        <!-- <a href="index.html">
+                                            Shiba Chemicals
+                                            <img src="images/logo-file.jpg" class="logo_main" alt="" width="168" height="42">
+                                        </a> -->
                                     </div>
                                     <div class="logo_descr">
-                                        Our focus is on your overall well being and helping you achieve optimal health and esthetics.
-                                        We provide stateof the art dental care.
-                                        <br />
-                                        <br /> Types of bridges may vary, depending upon how they are fabricated and the way they
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                                     </div>
                                     <div class="sc_socials sc_socials_type_icons sc_socials_shape_square sc_socials_size_tiny">
                                         <div class="sc_socials_item">
@@ -31,25 +30,20 @@
                                                 <span class="icon-facebook"></span>
                                             </a>
                                         </div>
-                                        <div class="sc_socials_item">
-                                            <a href="#" target="_blank" class="social_icons social_digg">
-                                                <span class="icon-digg"></span>
-                                            </a>
-                                        </div>
                                     </div>
                                 </div>
                             </aside>
                             <aside class="column-1_3 widget widget_recent_posts">
-                                <h5 class="widget_title">Recent News</h5>
+                                <h5 class="widget_title">Services</h5>
                                 <article class="post_item with_thumb">
-                                    <div class="post_thumb">
+                                    <!-- <div class="post_thumb">
                                         <img width="75" height="75" alt="" src="images/1000x1000.png">
-                                    </div>
+                                    </div> -->
                                     <div class="post_content">
                                         <h6 class="post_title">
-                                            <a href="single-post.html">Dental patients given increased protection</a>
+                                            <a href="#">Some infomation 1</a>
                                         </h6>
-                                        <div class="post_info">
+                                        <!-- <div class="post_info">
                                             <span class="post_info_item post_info_posted">February 2, 2016</span>
                                             <span class="post_info_item post_info_posted_by">by
                                                 <a href="single-post.html" class="post_info_author">John Doe</a>
@@ -57,45 +51,28 @@
                                             <span class="post_info_item post_info_posted_in">in
                                                 <a href="#" rel="category tag">News</a>
                                             </span>
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </article>
                                 <article class="post_item with_thumb">
-                                    <div class="post_thumb">
-                                        <img width="75" height="75" alt="" src="images/1000x1000.png">
-                                    </div>
                                     <div class="post_content">
                                         <h6 class="post_title">
-                                            <a href="single-post.html">Best Wedding Day Smile with Dentistry Procedures</a>
+                                            <a href="#">Some infomation 2</a>
                                         </h6>
-                                        <div class="post_info">
-                                            <span class="post_info_item post_info_posted">February 2, 2016</span>
-                                            <span class="post_info_item post_info_posted_by">by
-                                                <a href="single-post.html" class="post_info_author">John Doe</a>
-                                            </span>
-                                            <span class="post_info_item post_info_posted_in">in
-                                                <a href="#" rel="category tag">News</a>
-                                            </span>
-                                        </div>
                                     </div>
                                 </article>
                                 <article class="post_item with_thumb">
-                                    <div class="post_thumb">
-                                        <img width="75" height="75" alt="" src="images/1000x1000.png">
-                                    </div>
                                     <div class="post_content">
                                         <h6 class="post_title">
-                                            <a href="single-post.html">Give mouth cancer sufferers a voice on World Cancer Day</a>
+                                            <a href="#">Some infomation 3</a>
                                         </h6>
-                                        <div class="post_info">
-                                            <span class="post_info_item post_info_posted">February 2, 2016</span>
-                                            <span class="post_info_item post_info_posted_by">by
-                                                <a href="single-post.html" class="post_info_author">John Doe</a>
-                                            </span>
-                                            <span class="post_info_item post_info_posted_in">in
-                                                <a href="#" rel="category tag">News</a>
-                                            </span>
-                                        </div>
+                                    </div>
+                                </article>
+                                <article class="post_item with_thumb">
+                                    <div class="post_content">
+                                        <h6 class="post_title">
+                                            <a href="#">Some infomation 4</a>
+                                        </h6>
                                     </div>
                                 </article>
                             </aside>

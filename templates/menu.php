@@ -6,9 +6,9 @@
                                     </li>
                                     <li class="menu-item menu-item-has-children"><a href="#"><span>About</span></a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item"><a href="about.html"><span>About Us</span></a></li>
-                                            <li class="menu-item"><a href="team.html"><span>Our Team</span></a></li>
-                                            <li class="menu-item"><a href="single-team.html"><span>Dentist&#8217;s Profile</span></a></li>
+                                            <li class="menu-item"><a href="about.php"><span>About Us</span></a></li>
+                                            <li class="menu-item"><a href="team.php"><span>Our Team</span></a></li>
+                                            <li class="menu-item"><a href="single-team.php"><span>Dentist&#8217;s Profile</span></a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children"><a href="#"><span>Pages</span></a>

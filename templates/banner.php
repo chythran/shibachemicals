@@ -8,16 +8,16 @@
                                     <img src="images/h1_sl1_1.png" alt="" data-ww="623px" data-hh="517px" width="623" height="517" data-no-retina>
                                 </div>
                                 <div class="tp-caption dentrarario-home1-static-text2 tp-resizeme" id="slide-1-layer-2" data-x="35" data-y="255" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"from":"z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;","speed":1000,"to":"o:1;","delay":1000,"ease":"Power2.easeOut"},{"delay":4750,"speed":1000,"to":"opacity:0;","ease":"nothing"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
-                                    Dr. Joseph Phillips is an active member of the Academy of
-                                    <br/> General Dentistry and strives to stay up to date with the latest
-                                    <br/> in techniques and technology in the dental profession.
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+                                    <br/> eiusmod tempor incididunt ut labore et dolore magna aliqua,
+                                    <br/> ut enim ad minim veniam, quis nostrud exercitation.
                                 </div>
                                 <div class="tp-caption dentrarario-home1-static-text tp-resizeme button" id="slide-1-layer-3" data-x="35" data-y="340" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"from":"z:0;rX:0;rY:0;rZ:0;sX:0.8;sY:0.8;skX:0;skY:0;opacity:0;","speed":1500,"to":"o:1;","delay":1500,"ease":"Power4.easeOut"},{"delay":3750,"speed":1000,"to":"opacity:0;","ease":"nothing"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
-                                    <a href="appointment.html" class="sc_button sc_button_square sc_button_style_filled sc_button_size_medium alignleft">Make an appointment</a>
+                                    <!-- <a href="appointment.html" class="sc_button sc_button_square sc_button_style_filled sc_button_size_medium alignleft">Make an appointment</a> -->
                                 </div>
                                 <div class="tp-caption dentrarario-home1-static-header tp-resizeme" id="slide-1-layer-4" data-x="35" data-y="143" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"from":"z:0;rX:0;rY:0;rZ:0;sX:0.8;sY:0.8;skX:0;skY:0;opacity:0;","speed":1500,"to":"o:1;","delay":500,"ease":"Power4.easeOut"},{"delay":4750,"speed":1000,"to":"opacity:0;","ease":"nothing"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
-                                    High Innovative Technology
-                                    <br/> & Professional Dentists
+                                    Product sample image
+                                    <br/> will be shown
                                 </div>
                             </li>
                             <li data-index="rs-4" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="images/01_slider-background-100x50.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
@@ -26,16 +26,16 @@
                                     <img src="images/h1_sl1_2.png" alt="" data-ww="623px" data-hh="517px" width="623" height="517" data-no-retina>
                                 </div>
                                 <div class="tp-caption dentrarario-home1-static-text2 tp-resizeme" id="slide-4-layer-2" data-x="35" data-y="255" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"from":"x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[100%];y:0;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":500,"ease":"Power3.easeOut"},{"delay":4750,"speed":1000,"to":"opacity:0;","ease":"nothing"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
-                                    Dr. Lisa Casey enjoys all areas of comprehensive dental care from
-                                    <br/> preventive treatment and simple restorations to root canals,
-                                    <br/> crown and bridge work and cosmetic care.
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+                                    <br/> eiusmod tempor incididunt ut labore et dolore magna aliqua,
+                                    <br/> ut enim ad minim veniam, quis nostrud exercitation.
                                 </div>
                                 <div class="tp-caption dentrarario-home1-static-text tp-resizeme button" id="slide-4-layer-3" data-x="35" data-y="340" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"from":"x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[100%];y:0;","speed":1500,"to":"o:1;","delay":500,"ease":"Power3.easeOut"},{"delay":4750,"speed":1000,"to":"opacity:0;","ease":"nothing"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
-                                    <a href="appointment.html" class="sc_button sc_button_square sc_button_style_filled sc_button_size_medium alignleft">Make an appointment</a>
+                                    <!-- <a href="appointment.html" class="sc_button sc_button_square sc_button_style_filled sc_button_size_medium alignleft">Make an appointment</a> -->
                                 </div>
                                 <div class="tp-caption dentrarario-home1-static-header tp-resizeme" id="slide-4-layer-4" data-x="35" data-y="143" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"from":"x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[100%];y:0;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":500,"ease":"Power3.easeOut"},{"delay":4750,"speed":1000,"to":"opacity:0;","ease":"nothing"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
-                                    High Innovative Technology
-                                    <br/> & Professional Dentists
+                                    Product sample image
+                                    <br/> will be shown
                                 </div>
                             </li>
                             <li data-index="rs-5" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="images/01_slider-background-100x50.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
@@ -44,15 +44,16 @@
                                     <img src="images/h1_sl1_3.png" alt="" data-ww="623px" data-hh="517px" width="623" height="517" data-no-retina>
                                 </div>
                                 <div class="tp-caption dentrarario-home1-static-text2 tp-resizeme" id="slide-5-layer-2" data-x="35" data-y="255" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"from":"z:0;rX:0deg;rY:0;rZ:0;sX:2;sY:2;skX:0;skY:0;opacity:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power2.easeOut"},{"delay":4250,"speed":1000,"to":"opacity:0;","ease":"nothing"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
-                                    Dr. Nick Kelly is a general dentist and also practices amongst our
-                                    <br/>dental offices when he is not utilizing his talents on the dental van.
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+                                    <br/> eiusmod tempor incididunt ut labore et dolore magna aliqua,
+                                    <br/> ut enim ad minim veniam, quis nostrud exercitation.
                                 </div>
                                 <div class="tp-caption dentrarario-home1-static-text tp-resizeme button" id="slide-5-layer-3" data-x="35" data-y="317" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"from":"z:0;rX:0deg;rY:0;rZ:0;sX:2;sY:2;skX:0;skY:0;opacity:0;","mask":"x:0px;y:0px;","speed":1500,"to":"o:1;","delay":1500,"ease":"Power2.easeOut"},{"delay":3750,"speed":1000,"to":"opacity:0;","ease":"nothing"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
-                                    <a href="appointment.html" class="sc_button sc_button_square sc_button_style_filled sc_button_size_medium alignleft">Make an appointment</a>
+                                    <!-- <a href="appointment.html" class="sc_button sc_button_square sc_button_style_filled sc_button_size_medium alignleft">Make an appointment</a> -->
                                 </div>
                                 <div class="tp-caption dentrarario-home1-static-header tp-resizeme" id="slide-5-layer-4" data-x="35" data-y="143" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"from":"z:0;rX:0deg;rY:0;rZ:0;sX:2;sY:2;skX:0;skY:0;opacity:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":500,"ease":"Power2.easeOut"},{"delay":4750,"speed":1000,"to":"opacity:0;","ease":"nothing"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
-                                    High Innovative Technology
-                                    <br/> & Professional Dentists
+                                    Product sample image
+                                    <br/> will be shown
                                 </div>
                             </li>
                         </ul>

@@ -318,7 +318,8 @@
 
 .contactp .bgimage_column,
 .indexp .bgimage_column {
-	background-image:url(../images/2640x1686.png);
+	/*background-image:url(../images/2640x1686.png);*/
+	background-image:url(../images/homepage-welcome.jpg);
 	background-repeat:no-repeat;
 	background-size: contain;
 }
@@ -530,7 +531,8 @@
 }
 
 .vc_custom_1455704924154 {
-	background-image: url(../images/2640x1686.png) !important;
+	/*background-image: url(../images/2640x1686.png) !important;*/
+	background-image: url(../images/info-block.jpg) !important;
 	background-position: center !important;
 	background-repeat: no-repeat !important;
 	background-size: cover !important;
