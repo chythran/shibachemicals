@@ -1409,8 +1409,11 @@ textarea {
   margin-bottom: 2.2em;
 }
 .top_panel_style_2 .logo {
-  margin-bottom: 3.52em;
-  margin-top: 3.52em;
+  /*margin-bottom: 3.52em;*/
+  /*margin-top: 3.52em;*/
+
+  margin-bottom: 0.52em;
+  margin-top: 0.52em;
 }
 .top_panel_style_2 .open_hours_label {
   font-family: "Open Sans", sans-serif;
