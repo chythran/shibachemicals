@@ -1,4 +1,4 @@
-<?php include 'templates/header.php'; ?>
+<?php include 'templates/header_index.php'; ?>
             
             <?php include 'templates/banner.php'; ?>
             

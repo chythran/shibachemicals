@@ -113,56 +113,10 @@
                 <div class="copyright_wrap_inner">
                     <div class="content_wrap_outer">
                         <div class="content_wrap">
-                            <div class="copyright_text">ThemeREX © 2017 All Rights Reserved.</div>
+                            <div class="copyright_text">Shib Chemicals &copy; 2019. All Rights Reserved.</div>
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
-    </div>
-
-    <div id="popup_login" class="popup_wrap popup_login bg_tint_light">
-        <a href="#" class="popup_close"></a>
-        <div class="form_wrap">
-            <div class="form_left">
-                <form action="#" method="post" name="login_form" class="popup_form login_form">
-                    <input type="hidden" name="redirect_to" value="index.html">
-                    <div class="popup_form_field login_field iconed_field icon-user">
-                        <input type="text" id="log" name="log" value="" placeholder="Login or Email">
-                    </div>
-                    <div class="popup_form_field password_field iconed_field icon-lock">
-                        <input type="password" id="password" name="pwd" value="" placeholder="Password">
-                    </div>
-                    <div class="popup_form_field remember_field">
-                        <input type="checkbox" value="forever" id="rememberme" name="rememberme">
-                        <label for="rememberme">Remember me</label>
-                        <a href="#" class="forgot_password">Forgot password?</a>
-                    </div>
-                    <div class="popup_form_field submit_field">
-                        <input type="submit" class="submit_button" value="Login">
-                    </div>
-                </form>
-            </div>
-            <div class="form_right">
-                <div class="login_socials_title">You can login using your social profile</div>
-                <div class="loginSoc login_plugin">
-                    <div class="wp-social-login-widget">
-                        <div class="wp-social-login-connect-with">Connect with:</div>
-                        <div class="wp-social-login-provider-list">
-                            <a rel="nofollow" href="#" title="Connect with Facebook" class="wp-social-login-provider wp-social-login-provider-facebook" data-provider="Facebook">
-                                <img alt="" title="Connect with Facebook" src="images/facebook.png" />
-                            </a>
-                            <a rel="nofollow" href="#" title="Connect with Google" class="wp-social-login-provider wp-social-login-provider-google" data-provider="Google">
-                                <img alt="" title="Connect with Google" src="images/google.png" />
-                            </a>
-                            <a rel="nofollow" href="#" title="Connect with Twitter" class="wp-social-login-provider wp-social-login-provider-twitter" data-provider="Twitter">
-                                <img alt="" title="Connect with Twitter" src="images/twitter.png" />
-                            </a>
-                        </div>
-                        <div class="wp-social-login-widget-clearing"></div>
-                    </div>
-                </div>
-                <div class="result message_block"></div>
             </div>
         </div>
     </div>
