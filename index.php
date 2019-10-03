@@ -1,5 +1,5 @@
 <?php include 'templates/header_index.php'; ?>
-            
+
             <?php include 'templates/banner.php'; ?>
             
             <div class="page_content_wrap page_paddings_no">

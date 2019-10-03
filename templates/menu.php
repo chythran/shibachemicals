@@ -28,13 +28,31 @@
                         <div class="content_wrap clearfix">
                             <nav class="menu_main_nav_area">
                                 <ul id="menu_main" class="menu_main_nav">
-                                    <li class="menu-item current-menu-ancestor"><a href="."><span>Home</span></a>
+                                    <li class="menu-item"><a href="."><span>Home</span></a>
                                     </li>
+                                    <!-- <li class="menu-item current-menu-ancestor"><a href="."><span>Home</span></a>
+                                    </li> -->
                                     <li class="menu-item menu-item-has-children"><a href="#"><span>About</span></a>
                                         <ul class="sub-menu">
                                             <li class="menu-item"><a href="about.php"><span>About Us</span></a></li>
+                                            <li class="menu-item"><a href="vision-and-mission.php"><span>Vision and Mission</span></a></li>
                                             <li class="menu-item"><a href="team.php"><span>Our Team</span></a></li>
-                                            <li class="menu-item"><a href="single-team.php"><span>Dentist&#8217;s Profile</span></a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="menu-item menu-item-has-children"><a href="#"><span>Products</span></a>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item"><a href="sugar-process-chemicals.php"><span>Sugar Process Chemicals</span></a></li>
+                                            <li class="menu-item"><a href="water-treatment.php"><span>Water Treatment</span></a></li>
+                                            <li class="menu-item"><a href="water-wastewater-treatment.php"><span>Water &amp; Wastewater Treatment</span></a></li>
+                                            <li class="menu-item"><a href="reverse-osmosis-chemicals.php"><span>Reverse Osmosis Chemicals</span></a></li>
+                                            <li class="menu-item"><a href="boiler-water-treatment.php"><span>Boiler Water Treatment</span></a></li>
+                                            <li class="menu-item"><a href="cooling-water-treatment.php"><span>Cooling Water Treatment</span></a></li>
+                                            <li class="menu-item"><a href="fire-side-chemical-fuel-additive.php"><span>Fire Side Chemical/Fuel Additive</span></a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="menu-item menu-item-has-children"><a href="services.php"><span>Services</span></a>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item"><a href="single-service.html"><span>Service Single</span></a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children"><a href="#"><span>Pages</span></a>
@@ -47,11 +65,6 @@
                                             <li class="menu-item"><a href="shop.html"><span>Shop</span></a></li>
                                             <li class="menu-item"><a href="faq.html"><span>FAQ</span></a></li>
                                             <li class="menu-item"><a href="404.html"><span>Error 404</span></a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item menu-item-has-children"><a href="services.html"><span>Services</span></a>
-                                        <ul class="sub-menu">
-                                            <li class="menu-item"><a href="single-service.html"><span>Service Single</span></a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children"><a href="#"><span>Gallery</span></a>
