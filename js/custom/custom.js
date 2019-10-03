@@ -681,7 +681,7 @@ function initEssGrid(){
 		gridID: "1",
 		loadMoreType: "button",
 		loadMoreAmount: 4,
-		loadMoreTxt: "View More",
+		loadMoreTxt: "View More 123",
 		loadMoreNr: "off",
 		loadMoreEndTxt: "No More Items for the Selected Filter",
 		loadMoreItems: [
@@ -902,17 +902,17 @@ function initEssGrid(){
 		forceFullWidth: "off",
 		lazyLoad: "off",
 		gridID: "2",
-		loadMoreType: "button",
-		loadMoreAmount: 4,
-		loadMoreTxt: "View More",
-		loadMoreNr: "off",
-		loadMoreEndTxt: "No More Items for the Selected Filter",
-		loadMoreItems: [
-			[865, [-1, 34]],
-			[866, [-1, 34]],
-			[867, [-1, 34]],
-			[868, [-1, 34]]
-		],
+		// loadMoreType: "button",
+		// loadMoreAmount: 4,
+		// loadMoreTxt: "View More 321",
+		// loadMoreNr: "off",
+		// loadMoreEndTxt: "No More Items for the Selected Filter",
+		// loadMoreItems: [
+		// 	[865, [-1, 34]],
+		// 	[866, [-1, 34]],
+		// 	[867, [-1, 34]],
+		// 	[868, [-1, 34]]
+		// ],
 		row: 9999,
 		loadMoreAjaxToken: "20797f2d96",
 		loadMoreAjaxUrl: "http://dentario.themerex.net/wp-admin/admin-ajax.php",
@@ -1126,7 +1126,7 @@ function initEssGrid(){
 		gridID: "3",
 		loadMoreType: "button",
 		loadMoreAmount: 4,
-		loadMoreTxt: "View More",
+		loadMoreTxt: "View More 111",
 		loadMoreNr: "off",
 		loadMoreEndTxt: "No More Items for the Selected Filter",
 		loadMoreItems: [

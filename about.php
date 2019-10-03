@@ -82,17 +82,7 @@
                     </div>
                     <div class="sidebar widget_area scheme_original" role="complementary">
                         <div class="sidebar_inner widget_area_inner">
-                            <aside class="widget widget_archive">
-                                <h5 class="widget_title">Products</h5>
-                                <ul>
-                                    <li><a href='#'>Sample Product</a></li>
-                                    <li><a href='#'>Sample Product</a></li>
-                                    <li><a href='#'>Sample Product</a></li>
-                                    <li><a href='#'>Sample Product</a></li>
-                                    <li><a href='#'>Sample Product</a></li>
-                                    <li><a href='#'>Sample Product</a></li>
-                                </ul>
-                            </aside>
+                            <?php include 'templates/aside_products.php'; ?>
                         </div>
                     </div>
                 </div>
