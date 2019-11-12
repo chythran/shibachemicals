@@ -125,18 +125,9 @@
 
                                                         <div class="wpb_text_column wpb_content_element ">
                                                             <div class="wpb_wrapper">
-                                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                                                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                                                                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                                                                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                                                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                                                                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                                                                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                                                                <p>Shiba Chemicals is a global leader of specialty chemicals – recognized as an expert operating manufacturer and worldwide distributor of an extensive range of chemical products.</p>
+                                                                <p>We have been leading – rather shaping the chemical industry – with over 30 years of deep industry expertise in providing a wide range of solutions for a large array of chemical requirements.</p>
+                                                                <p>We specialize in the chemical products essential for various kind of water treatments, sugar and textiles processing, fuel and fire-side additives (Boilers, furnaces, and DG sets), and many more purposes.</p>
                                                             </div>
                                                         </div>
                                                         <div class="vc_empty_space space_25p">

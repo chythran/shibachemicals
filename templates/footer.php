@@ -12,7 +12,7 @@
                                         </a> -->
                                     </div>
                                     <div class="logo_descr">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                                        <p>Shiba Chemicals is a global leader of specialty chemicals – recognized as an expert operating manufacturer and worldwide distributor of an extensive range of chemical products.</p>
                                     </div>
                                     <div class="sc_socials sc_socials_type_icons sc_socials_shape_square sc_socials_size_tiny">
                                         <div class="sc_socials_item">
@@ -34,14 +34,14 @@
                                 </div>
                             </aside>
                             <aside class="column-1_3 widget widget_recent_posts">
-                                <h5 class="widget_title">Services</h5>
+                                <h5 class="widget_title">Products</h5>
                                 <article class="post_item with_thumb">
                                     <!-- <div class="post_thumb">
                                         <img width="75" height="75" alt="" src="images/1000x1000.png">
                                     </div> -->
                                     <div class="post_content">
                                         <h6 class="post_title">
-                                            <a href="#">Some infomation 1</a>
+                                            <a href="sugar-process-chemicals.php">Sugar Process Chemicals</a>
                                         </h6>
                                         <!-- <div class="post_info">
                                             <span class="post_info_item post_info_posted">February 2, 2016</span>
@@ -57,21 +57,28 @@
                                 <article class="post_item with_thumb">
                                     <div class="post_content">
                                         <h6 class="post_title">
-                                            <a href="#">Some infomation 2</a>
+                                            <a href="water-treatment.php">Water Treatment</a>
                                         </h6>
                                     </div>
                                 </article>
                                 <article class="post_item with_thumb">
                                     <div class="post_content">
                                         <h6 class="post_title">
-                                            <a href="#">Some infomation 3</a>
+                                            <a href="water-wastewater-treatment.php">Water & Wastewater Treatment</a>
                                         </h6>
                                     </div>
                                 </article>
                                 <article class="post_item with_thumb">
                                     <div class="post_content">
                                         <h6 class="post_title">
-                                            <a href="#">Some infomation 4</a>
+                                            <a href="reverse-osmosis-chemicals.php">Reverse Osmosis Chemicals</a>
+                                        </h6>
+                                    </div>
+                                </article>
+                                <article class="post_item with_thumb">
+                                    <div class="post_content">
+                                        <h6 class="post_title">
+                                            <a href="boiler-water-treatment.php">Boiler Water Treatment</a>
                                         </h6>
                                     </div>
                                 </article>

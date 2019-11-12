@@ -24,50 +24,16 @@
                                                 <h4 class="sc_title sc_title_regular">Who We Are</h4>
                                                 <div class="wpb_text_column wpb_content_element ">
                                                     <div class="wpb_wrapper">
-                                                        <p>
-                                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                                                            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                                                            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                                                        </p>
-
-                                                    </div>
-                                                </div>
-                                                <div class="wpb_text_column wpb_content_element ">
-                                                    <div class="wpb_wrapper">
-                                                        <p>
-                                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                                                            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                                                            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                                                        </p>
-                                                        <p>
-                                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                                                            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                                                            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                                                        </p>
-
-                                                    </div>
-                                                </div>
-                                                <div class="wpb_text_column wpb_content_element ">
-                                                    <div class="wpb_wrapper">
-                                                        <p>
-                                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                                                            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                                                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                                                            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                                                        </p>
-                                                        <p>
-                                                            Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio,
-                                                            cumque nihil impedit, quo minus id, quod maxime placeat, facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.
-                                                            Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet,
-                                                            ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus,
-                                                            ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
-                                                            Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet,
-                                                            ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus.
-                                                        </p>
-
+                                                        <p>Shiba Chemicals is a global leader of specialty chemicals – recognized as an expert operating manufacturer and worldwide distributor of an extensive range of chemical products.</p>
+                                                        <p>We have been leading – rather shaping the chemical industry – with over 30 years of deep industry expertise in providing a wide range of solutions for a large array of chemical requirements.</p>
+                                                        <p>We specialize in the chemical products essential for various kind of water treatments, sugar and textiles processing, fuel and fire-side additives (Boilers, furnaces, and DG sets), and many more purposes.</p>
+                                                        <p>We combine our strengths of consulting in the chemical domain and practices of technology knowledge to resolve the customers’ challenges.</p>
+                                                        <p>We keep ourselves in pace with the latest trends in the chemical industry trends and extend our expertise to apply innovation. In fact, we create the trends and ride over them with our abilities to innovate constantly.</p>
+                                                        <p>Our transformational strategies and digital enablement helps customers to stand out with the superior operations and sustainable growth.</p>
+                                                        <p>Our industry consultants work across all the segments of the industry, including basic and intermediate chemicals, polymers, fibers and elastomers, agricultural chemicals, paints and coatings, industrial gases, and other specialty chemicals.</p>
+                                                        <p>Being an international chemical distributor and a leading manufacturer, Shiba Chemicals has exclusive solutions to overcome the challenges and exceed the customer expectations.</p>
+                                                        <p>Shiba Chemicals is dedicated to excellence in every area of business with expert knowledge, updated technology, and strategic communication to provide the highest quality products and services along with the superior consumer experiences.</p>
+                                                        <p>Join us to experience the excellence of innovations!</p>
                                                     </div>
                                                 </div>
                                                 <div class="vc_empty_space space_25p">

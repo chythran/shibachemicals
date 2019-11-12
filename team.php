@@ -94,6 +94,37 @@
                                                         </div>
                                                     </div>
                                                 </div>
+
+                                                <div class="wpb_wrapper">
+                                                    <div class="wpb_text_column wpb_content_element">
+                                                        <div class="wpb_wrapper">
+                                                            <p>Shiba Chemicals is built on a solid foundation of integrity and ethical business practices. We foster steady business growth supported by our dedicated long-term workforce making us to excel in the industry and serve the best to customers.</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="vc_empty_space space_33p">
+                                                        <span class="vc_empty_space_inner"></span>
+                                                    </div>
+                                                    <h3 class="sc_title sc_title_regular sc_align_left margin_top_null">What Makes Us Different?</h3>
+                                                    <div class="wpb_text_column wpb_content_element">
+                                                        <div class="wpb_wrapper">
+                                                            <p>Just like our industry solutions, our organizational structure is a unique one. We have a flat organizational structure and functioning.</p>
+                                                            <p>In Shiba Chemicals, each of our teams including Sales Team, Customer Service Team, and Executive Board has equal opportunity and authority to make decisions and enact change. This unique policy, not usually adopted by larger companies, allows Shiba Chemicals to innovate and serve the dynamic solutions.</p>
+                                                            <p>Our team leverages this unique opportunity to expedite the churn the ideas brilliantly, share and process the information accurately, integrate the latest technology effectively, and expedite the orders efficiently.</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="vc_empty_space space_33p">
+                                                        <span class="vc_empty_space_inner"></span>
+                                                    </div>
+                                                    <h3 class="sc_title sc_title_regular sc_align_left margin_top_null">Our Values and Our Spirit</h3>
+                                                    <div class="wpb_text_column wpb_content_element">
+                                                        <div class="wpb_wrapper">
+                                                            <p>We also stand out different due to our ambitions to turn the turbulence and eruptions into the opportunities. What others see as epic disruptions bringing new challenges, our team acts ahead to seize the opportunities.</p>
+                                                            <p>We value every customer, every talent, and each opportunity equally and dedicate our expertise to bring the best for all. Our spirit to make our customers win with us makes us channelize the intangible abilities into tangible products.</p>
+                                                            <p>We bond and work together to live our principles and present the quality with merits.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
                                                 <div class="vc_empty_space space_70p">
                                                     <span class="vc_empty_space_inner"></span>
                                                 </div>
