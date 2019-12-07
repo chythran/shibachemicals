@@ -50,7 +50,29 @@
                                             <li class="menu-item"><a href="fire-side-chemical-fuel-additive.php"><span>Fire Side Chemical/Fuel Additive</span></a></li>
                                         </ul>
                                     </li>
-                                    <li class="menu-item"><a href="services.php"><span>Services</span></a></li>
+
+
+                                         <li class="menu-item menu-item-has-children"><a href="#"><span>Solution</span></a>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item "><a href="#"><span>Sugar</span></a>
+                                            
+                                        </li>
+                                        <li class="menu-item "><a href="#"><span>Distillery</span></a>
+                                            
+                                        </li>
+                                            <li class="menu-item "><a href="#"><span>Co-gen</span></a>
+                                           
+                                        </li>
+                                         <li class="menu-item "><a href="#"><span>Bio-fuel</span></a>
+                                            
+                                        </li>
+                                            
+                                        </ul>
+                                    </li>
+                                    
+                                    
+
+                                   
                                     <li class="menu-item"><a href="gallery.php"><span>Gallery</span></a></li>
                                     <li class="menu-item"><a href="contacts.php"><span>Contacts</span></a></li>
                                 </ul>
